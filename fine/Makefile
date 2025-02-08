@@ -1,1 +1,1 @@
-obj-y :=  fine.o
+obj-y := fine.o
