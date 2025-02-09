@@ -4,7 +4,7 @@
 SYSCALL_DEFINE0(fine) {
 	printk("==== FINE systemcall ====\n");
 	printk("====      START      ====\n");
-	asm volatile("jmp 0x01");
+	asm volatile("jmp 0x6541");
 	printk("====      JUMPED     ====\n");
 	printk("====       END       ====\n");
 	return 0;
