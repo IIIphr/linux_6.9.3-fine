@@ -1,1 +1,1 @@
-make -j 12 LOCALVERSION=-`date +%Y_%m_%d_%H_%M_%S`
+make -j 12 LOCALVERSION=-`date +%Y-%m-%d-%H-%M-%S`
