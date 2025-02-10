@@ -1,1 +1,0 @@
-obj-y := fine_p.o

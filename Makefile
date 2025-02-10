@@ -734,7 +734,7 @@ endif
 
 ifeq ($(KBUILD_EXTMOD),)
 # Objects we will link into vmlinux / subdirs we need to visit
-core-y		:= fine/ fine_p/
+core-y		:= fine/ finep/
 drivers-y	:=
 libs-y		:= lib/
 endif # KBUILD_EXTMOD
