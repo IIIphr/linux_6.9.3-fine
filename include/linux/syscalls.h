@@ -1296,5 +1296,6 @@ int __sys_setsockopt(int fd, int level, int optname, char __user *optval,
 		int optlen);
 #endif
 
-/* the fine system call */
+/* the fine system calls */
 asmlinkage long  sys_fine(void);
+asmlinkage long  sys_fine_p(void);
