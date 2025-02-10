@@ -10,5 +10,5 @@
 #define ZO_input_data 0x00000000000002cc
 #define ZO_kernel_info 0x0000000000c3e1fc
 #define ZO_startup_32 0x0000000000000000
-#define ZO_z_input_len 0x0000000000c0c7d3
+#define ZO_z_input_len 0x0000000000c0c7cf
 #define ZO_z_output_len 0x000000000358cdf4
